@@ -1,0 +1,11 @@
+{
+  "name": "mdi-icons-data",
+  "version": "1.0.0",
+  "description": "MaterialDesignIcons's icons data.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "hota1024",
+  "license": "MIT"
+}

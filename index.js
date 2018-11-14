@@ -1,4 +1,4 @@
-export default icons = [
+export default [
   'access-point',
   'access-point-network',
   'account',
